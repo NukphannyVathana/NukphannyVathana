@@ -16,21 +16,19 @@ I'm a forward-thinking **Management Information Systems (MIS)** student based in
 
 ## 🛠️ Tech Stack & Skills
 
-**Development**  
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+**Development** ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 
-**IT & Security**  
-![Hardware & Software](https://img.shields.io/badge/Hardware_&_Software-4169E1?style=flat-square&logo=linux&logoColor=white)
+**IT & Security** ![Hardware & Software](https://img.shields.io/badge/Hardware_&_Software-4169E1?style=flat-square&logo=linux&logoColor=white)
 ![Malware Analysis](https://img.shields.io/badge/Basic_Malware_Analysis-000000?style=flat-square&logo=hackthebox&logoColor=white)
 
-**Design Tools**  
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=black)
+**Design Tools** ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=black)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=black)
 
 ## 📫 Let's Connect!
