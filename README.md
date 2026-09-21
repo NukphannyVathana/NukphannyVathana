@@ -89,8 +89,8 @@ Volunteered at Sok An Mouyouksaphea High School (2019 - 2024). Assessed school n
 <div align="center">
   <!-- Animated GitHub Stat Cards -->
   <a href="https://github.com/nukphannyvathana">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nukphannyvathana&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=3B82F6" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nukphannyvathana&layout=compact&theme=tokyonight&hide_border=true&title_color=3B82F6" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=nukphannyvathana&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=3B82F6" height="180" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nukphannyvathana&layout=compact&theme=tokyonight&hide_border=true&title_color=3B82F6" height="180" alt="Top Languages" />
   </a>
 </div>
 
