@@ -8,7 +8,7 @@
 **🇰🇭 Management Information Systems Student · Aspiring Web Developer · from Cambodia**
 
 <!-- Dynamic Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Visitor Count" />
+<img src="https://komarev.com/ghpvc/?username=nukphannyvathana&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Visitor Count" />
 
 </div>
 
@@ -50,7 +50,7 @@ Designed, coded, and deployed a fully responsive personal portfolio to showcase 
 <br>
 Led the systems analysis and architectural design of a mock relational database for a retail case study. Focused on data integrity, table normalization, and efficient query design for IT operations.
 <br>
-<b>Focus:</b> Systems Analysis, Database Design, SQL
+<b>Focus:</b> Systems Analysis, Database Design, SQL, PostgreSQL, SQLite
 </details>
 
 <details open>
@@ -70,9 +70,9 @@ Volunteered at Sok An Mouyouksaphea High School (2019 - 2024). Assessed school n
   </a>
   <br><br>
   
-  <h4><b>Backend, Scripting & Security</b></h4>
+  <h4><b>Backend, Databases & Security</b></h4>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,python,cs,cpp,linux" alt="Backend and Security Skills" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,cs,cpp,linux,postgres,sqlite" alt="Backend and Security Skills" />
   </a>
   <br><br>
 
@@ -84,33 +84,13 @@ Volunteered at Sok An Mouyouksaphea High School (2019 - 2024). Assessed school n
 
 ---
 
-### ⚙️ My Workspace & Hardware Setup
-
-Building great software requires a reliable environment. Here is my current daily-driver setup for coding, rendering, and testing:
-
-*   **Processor:** Intel Core i5-12400F
-*   **Motherboard:** Gigabyte B760M DS3H AX DDR4
-*   **Graphics:** NVIDIA GeForce GTX 1660 Ti
-*   **Memory:** 32GB RAM (Essential for running local servers, VMs, and Figma simultaneously)
-*   **Mobile Testing:** iPhone 14 Pro Max (For cross-browser and mobile-responsive QA)
-
----
-
 ### 📊 GitHub Analytics & Activity
 
 <div align="center">
-  <!-- GitHub Snake Contribution Animation -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-  </picture>
-  <br><br>
-
   <!-- Animated GitHub Stat Cards -->
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=3B82F6" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=3B82F6" alt="Top Languages" />
+  <a href="https://github.com/nukphannyvathana">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nukphannyvathana&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=3B82F6" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nukphannyvathana&layout=compact&theme=tokyonight&hide_border=true&title_color=3B82F6" alt="Top Languages" />
   </a>
 </div>
 
