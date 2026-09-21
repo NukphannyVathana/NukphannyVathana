@@ -1,20 +1,25 @@
-# Hi there, I'm **Nukphanny Vathana** 👋
+<div align="center">
 
-🇰🇭 Management Information Systems Student · Cyber Security Analyst · from Cambodia
+<!-- Dynamic Typing Animation Header -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Nukphanny+Vathana+👋;MIS+Student+from+Cambodia+🇰🇭;Cyber+Security+Analyst;Passionate+about+Tech+%26+Security" alt="Typing Animation" />
+</a>
+
+**🇰🇭 Management Information Systems Student · Cyber Security Analyst · from Cambodia**
+
+<!-- Dynamic Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Visitor Count" />
+
+</div>
 
 ---
 
-## 🏅 Highlighted Experience
+### 🚀 About Me
 
-> **Union Youth Federation of Cambodia** · 2019 - 2024
->
-> **At Sok An Mouyouksaphea High School**
->
-> *"Assessed school needs through direct communication with teachers and local leaders to prioritize the most impactful improvements."*
-
----
-
-## 🚀 About Me
+<div align="right">
+  <!-- Animated Coding Graphic -->
+  <img width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding Animation" />
+</div>
 
 I'm a forward-thinking **Management Information Systems (MIS)** student based in Phnom Penh 🇰🇭, seeking an entry-level opportunity to apply technology-driven solutions to support IT operations.
 
@@ -23,40 +28,57 @@ I'm a forward-thinking **Management Information Systems (MIS)** student based in
 - 🏗️ **Experienced:** Designing and implementing a mock Relational Database for a retail case study
 - 🤝 **Volunteer:** Soccer League Volunteer (2025) and Walk For Peace Volunteer (2025)
 - 🌱 **Soft Skills:** Adaptability and problem-solving in a high-pressure, fast-paced environment to support national-level social goals
-- 💬 Ask me about database design, systems analysis, or basic malware analysis
+- 💬 **Ask me about:** Database design, systems analysis, or basic malware analysis
+
+<br>
 
 ---
 
-## 🛠️ Tech Stack & Skills
+### 🛠️ Tech Stack & Skills
 
-**Development**
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
-**IT & Security**
-![Hardware & Software](https://img.shields.io/badge/Hardware_&_Software-4169E1?style=flat-square&logo=linux&logoColor=white)
-![Malware Analysis](https://img.shields.io/badge/Basic_Malware_Analysis-000000?style=flat-square&logo=hackthebox&logoColor=white)
-
-**Design Tools**
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=black)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=black)
+<div align="center">
+  <!-- Modern, uniform animated skill icons -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,vue,cpp,cs,python,nodejs" alt="Development Skills" /><br><br>
+    <img src="https://skillicons.dev/icons?i=ps,ai,linux" alt="Design and Security Skills" />
+  </a>
+</div>
 
 ---
 
-## 📫 Reach Me
+### 🏅 Highlighted Experience
 
-| Contact Method | Details |
-|---|---|
-| 📧 Email | [nukphannyvathana@gmail.com](mailto:nukphannyvathana@gmail.com) |
-| 📞 Phone | 095 627 443 |
-| 📍 Address | Sankat Boeung Prolit, Khan Prampi Makara, Phnom Penh city |
+> **Union Youth Federation of Cambodia** · 2019 - 2024
+> 
+> **At Sok An Mouyouksaphea High School**
+> 
+> *"Assessed school needs through direct communication with teachers and local leaders to prioritize the most impactful improvements."*
 
 ---
 
-⚡ Consistently recognized for excellence in Systems Analysis and Database Design 🇰🇭
+### 📊 GitHub Analytics
+
+<div align="center">
+  <!-- Animated GitHub Stat Cards -->
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=3B82F6" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=3B82F6" alt="Top Languages" />
+  </a>
+</div>
+
+---
+
+### 📫 Reach Me
+
+<div align="center">
+
+<!-- Modern, clean contact badges -->
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nukphannyvathana@gmail.com)
+[![Phone](https://img.shields.io/badge/095_627_443-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](#)
+[![Location](https://img.shields.io/badge/Phnom_Penh,_Cambodia-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)](#)
+
+<br>
+
+⚡ *Consistently recognized for excellence in Systems Analysis and Database Design 🇰🇭*
+
+</div>
